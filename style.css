@@ -1,0 +1,19 @@
+/* Style Dasar VynnHost */
+
+body {
+
+    -webkit-font-smoothing: antialiased;
+
+    scroll-behavior: smooth;
+
+}
+
+.product-card:hover {
+
+    transform: translateY(-5px);
+
+    transition: 0.3s;
+
+    box-shadow: 0 0 15px rgba(49, 130, 206, 0.5);
+
+}
